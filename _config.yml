@@ -21,7 +21,7 @@ footer-links:
   email:mdsajeeb.rayhan@mavs.uta.edu
   facebook:Sajeeb Rayhan
   flickr:
-  github: barryclark/jekyll-now
+  github:sajeeb2016
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://sajeeb2016.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://sajeeb2016.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -50,7 +50,7 @@ url:
 baseurl: ""
 
 # In order to access data in repository, user must specify github username
-githubuser: 
+githubuser: sajeeb2016
 
 #
 # !! You don't need to change any of the configuration flags below !!
